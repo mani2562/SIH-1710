@@ -1,4 +1,4 @@
-<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/fb5d800c-eeba-4b24-aa23-173e148de05f" /># Smart India Hackathon Workshop
+Workshop
 
 **Date:** 26/10/2026
 

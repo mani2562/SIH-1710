@@ -1,4 +1,4 @@
-# Smart India Hackathon Workshop
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/fb5d800c-eeba-4b24-aa23-173e148de05f" /># Smart India Hackathon Workshop
 
 **Date:** 26/10/2026
 
@@ -39,7 +39,7 @@ The application will allow passengers to select their current location and desir
 * **Search Facility:** Allow passengers to search for destinations such as platforms, ticket counters, and restrooms.
 
 ### Architecture Diagram
-![Uploading image.png…]()
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/4017d8db-2fa9-45d2-b6f3-3afebd8b8e82" />
 
 ### Working Process
 
